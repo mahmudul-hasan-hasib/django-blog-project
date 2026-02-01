@@ -3,7 +3,7 @@
 A Django blog application with authentication, contact form, and latest posts on the home page.  
 This project was built while learning Django fundamentals.
 
----
+
 
 ##  Features
 
@@ -14,7 +14,7 @@ This project was built while learning Django fundamentals.
 - Contact form with database storage
 - Django admin panel integration
 
----
+
 
 ## Tech Stack
 
@@ -24,7 +24,15 @@ This project was built while learning Django fundamentals.
 - HTML, CSS
 - Git & GitHub
 
----
+
 
 ##  Project Structure
-
+blog_web/
+├── accounts/
+├── blog/
+├── contact/
+├── pages/
+├── templates/
+├── static/
+├── manage.py
+└── README.md
