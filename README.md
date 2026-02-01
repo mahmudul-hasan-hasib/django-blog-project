@@ -27,6 +27,7 @@ This project was built while learning Django fundamentals.
 
 
 ##  Project Structure
+```text
 blog_web/
 ├── accounts/
 ├── blog/
